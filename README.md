@@ -11,4 +11,4 @@
  </ul>
 
 <p><h2>NOTE:</h2> trainData.pth file is generated after the training the dataset with the machine learning algorithm</p>
-<p> The paradoxUI.ui file is created using the tool called the <h3>QtDesigner</h3>. Make sure you have installed it on your machine</p>
+<p> The paradoxUI.ui file is created using the tool called the <b>QtDesigner</b>. Make sure you have installed it on your machine</p>
