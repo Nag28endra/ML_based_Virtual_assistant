@@ -9,3 +9,5 @@
   <li>speech_recognition</li>
   <li>pywhatkit</li>
  </ul>
+
+<p><h2>NOTE:</h2> trainData.pth file is generated after the training the dataset with the machine learning algorithm</p>
